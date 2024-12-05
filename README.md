@@ -1,6 +1,6 @@
 
 # IAS
-<img width="1200" alt="tsyp" src="https://github.com/user-attachments/assets/9973fc10-8d83-44e5-b6c8-7dad46f5103b">
+<img width="1200" alt="tsyp" src="./readme_photos/tsyp.png">
 <br/>
 <br/>
 <br/>
@@ -45,7 +45,7 @@ The Smart and Sustainable Industrial Zones are designed to implement smart, dece
 - *User Interface*: A user-friendly interface for stakeholders to interact with data, set parameters, and monitor system performance, including visual dashboards and customizable alerts.
 
  <p align="center">
-  <img src="https://github.com/user-attachments/assets/ac80e081-e58c-484c-891f-3d1d8d9c715a" alt="Capture d'écran 2024-11-20 184744" style="width: 600px; height: auto;">
+  <img src="./readme_photos/fritzing.png" alt="Capture d'écran 2024-11-20 184744" style="width: 600px; height: auto;">
 </p>
 
   ---
@@ -68,7 +68,7 @@ The architecture of the Smart and Sustainable Industrial Zones is modular and sc
 - **Blockchain Network**:  A tokenization system on the Hedera blockchain that enables renewable energy production to be represented as tradable tokens, fostering an interconnected energy marketplace. 
 - **AI Models Server**: A dedicated server running the AI models used for energy prediction and optimization.  
 
-  <img width="953" alt="ias,dùdqmd" src="https://github.com/user-attachments/assets/c8cce306-366e-4237-b6cb-ca325f4232d8"> 
+  <img width="953" alt="ias,dùdqmd" src="./readme_photos/mobile.png"> 
 
 ---
 ## **Features** <a id="features"></a>
