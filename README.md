@@ -83,7 +83,7 @@ The architecture of the Smart and Sustainable Industrial Zones is modular and sc
 
 <div align="center">
   
-   [<img src="https://img.shields.io/badge/Watch%20Demo%20Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>](https://drive.google.com/drive/folders/1pC3BkBhZWnVob0Zc3hbULdBHtrnxA_Xh)
+   [<img src="https://img.shields.io/badge/Watch%20Demo%20Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>](https://drive.google.com/drive/folders/1MNMinBLUF688kiSodCmZa87QL2LmlKw0)
   <br/>
   Watch our complete solution demonstration showcasing:
   - 🛡️ Real-time threat detection
