@@ -90,6 +90,3 @@ batch_results = pm_model.batch_predict(multiple_samples)
 - `predicted_class`: Type of potential failure
 - `probability`: Confidence of the prediction
 - `reconstruction_error`: Anomaly score
-
-
-Project Link: [https://github.com/yourusername/predictive-maintenance-ai](https://github.com/yourusername/predictive-maintenance-ai)
