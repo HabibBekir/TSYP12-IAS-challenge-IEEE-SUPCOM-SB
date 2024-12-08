@@ -1,12 +1,11 @@
-# Hospital Electricity Consumption Prediction
+# Industry Electricity Consumption Prediction
 
 ## About the Project
 
-This project develops a machine learning model using GRU (Gated Recurrent Unit) neural networks to predict electricity consumption in a hospital setting. The model leverages time series data to forecast energy usage, which can be crucial for energy management and cost optimization.
+This project develops a machine learning model using GRU (Gated Recurrent Unit) neural networks to predict electricity consumption in an industry setting. The model leverages time series data to forecast energy usage, which can be crucial for energy management and cost optimization.
 
 ## Features
 
-- Data preprocessing and cleaning
 - Visualization of electricity consumption trends
 - Time series data normalization
 - Advanced deep learning model using GRU layers
@@ -82,12 +81,5 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
 
-Specify your license here. For example: Distributed under the MIT License. See `LICENSE` for more information.
 
-## Contact
-
-Your Name - your.email@example.com
-
-Project Link: [https://github.com/yourusername/hospital-electricity-prediction](https://github.com/yourusername/hospital-electricity-prediction)
