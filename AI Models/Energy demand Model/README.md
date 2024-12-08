@@ -23,8 +23,8 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/hospital-electricity-prediction.git
-cd hospital-electricity-prediction
+git clone https://github.com/Mrpriven/TSYP12-IAS-challenge-IEEE-SUPCOM-SB/tree/main/AI%20Models/Energy%20demand%20Model
+cd energy demand Model
 ```
 
 2. Install the required libraries:
@@ -63,23 +63,6 @@ The model uses a GRU-based neural network with the following key components:
 - Second GRU layer: 256 units
 - Dense layers for final prediction
 
-## Testing and Evaluation
-
-The model is evaluated using:
-- Mean Squared Error (MSE) loss function
-- Train-test split (80% train, 20% test)
-- Visualization of actual vs. predicted values
-- Model training over 50 epochs
-
-## Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 
 
